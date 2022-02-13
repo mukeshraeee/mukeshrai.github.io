@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Mukesh Rai
+description: Atmospheric modeler, travel nerd, phototgraphy enthusiastic 
+site_title: '@mukeshrai - Mukesh Rai'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: mukeshraeee
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: mukeshraeee@gmail.com
+keybase_username: mukeshraeee
+twitter_username: mukeshraee
+#reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/M.jpg
 
 # Google Analytics ID
 google_analytics: 
