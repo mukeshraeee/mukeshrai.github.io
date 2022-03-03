@@ -16,18 +16,6 @@ description: "I would like to answer the scientific questions in the atmospheric
 site_title: 'Mukesh Rai &#187;&#187; &#174;mukeshraee2&#169;22'
 
 
-<style type="text/css">
-
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-  text-align: center;
-}
-</style>
-
-
-
-
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
